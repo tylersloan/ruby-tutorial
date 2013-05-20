@@ -6,6 +6,8 @@ gem 'rails', '4.0.0.rc1'
 # Use unicorn as the app server
 gem 'unicorn'
 
+gem 'pg'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
